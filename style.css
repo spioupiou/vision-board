@@ -1,0 +1,73 @@
+body {
+  background-color: rgba(0,0,0,0.1);
+}
+
+.foreground {
+  z-index: 10;
+}
+
+.pic {
+  max-width: 400px;
+}
+
+#yes {
+  position: absolute;
+  left: 530px;
+  top: 90px;
+}
+
+#quote {
+  position: absolute;
+  left: 808px;
+  top: 580px;
+}
+
+#green {
+  position: absolute;
+  left: 530px;
+  top: 640px;
+}
+
+#sunset {
+  position: absolute;
+  left: 929px;
+  top: 314px;
+}
+
+#mountain {
+  position: absolute;
+  left: 890px;
+  top: 160px;
+}
+
+#dev {
+  position: absolute;
+  left: 130px;
+  top: 360px;
+}
+
+#thai {
+  position: absolute;
+  left: 227px;
+  top: 207px;
+}
+
+#postit {
+  position: absolute;
+  left: 282px;
+  top: 555px;
+}
+
+#travel {
+  position: absolute;
+  left: 328px;
+  top: 0px;
+  max-width: 310px;
+}
+
+#forest {
+  position: absolute;
+  left: 638px;
+  top: 0px;
+  max-width: 300px;
+}
